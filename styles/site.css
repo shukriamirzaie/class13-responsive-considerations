@@ -161,3 +161,22 @@ img {
     flex-direction: column;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  html{
+    background-color: #000000;
+    color: #f0f0f0;
+  }
+
+  body {
+   background-color: #1f1f1f;
+   color: #f0f0f0;
+  }
+}
+
+@media (pointer: coarse){
+  botton{
+    padding: 50px;
+  }
+
+}

@@ -93,6 +93,14 @@ h2 {
   background-color: #3e587e;
 }
 
+.events picture img {
+  aspect-ratio: 1;
+  height: 100%;
+  width: 100%;
+
+  object-fit: cover;
+  object-position: center;
+}
 .readable {
   padding: 4px 12px;
 

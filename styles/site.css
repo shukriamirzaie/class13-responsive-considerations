@@ -170,7 +170,7 @@ img {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   html{
     background-color: #000000;
     color: #f0f0f0;
